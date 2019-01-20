@@ -8,4 +8,7 @@ Instrution on how to run the Prolog file:
 3.We will solve these puzzles using 3 path finding methods: A*, A* with cycle checking, and A* interative deepening. The relative predicates are go( )/2, goCC( )/2, and goIDA( )/2.\
 4.Two heuristic function I have created, they are misplaced and manhattan_distance.\
 5.You can test the puzzles by querying the Prolog, for example: goIDA(a, hfn_manhattan).\
-6.Try out yourself and see if the puzzle is actually solvable!\
+6.Try out yourself and see if the puzzle is actually solvable!
+
+<br>The four preimplemented puzzles: a, b, c, d
+![4puzzles](Default_Puzzles.png)
