@@ -10,5 +10,5 @@ Instrution on how to run the Prolog file:
 5.You can test the puzzles by querying the Prolog, for example: goIDA(a, hfn_manhattan).\
 6.Try out yourself and see if the puzzle is actually solvable!
 
-<br>The four preimplemented puzzles: a, b, c, d
+<br>The four pre-implemented puzzles: a, b, c, d
 ![4puzzles](Default_Puzzles.png)
