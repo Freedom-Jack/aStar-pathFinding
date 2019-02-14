@@ -1,7 +1,7 @@
 # AStar-PathFinding
 School Project: Solving 8 puzzle problem using A* path finding
 
-Instrution on how to run the Prolog file:
+Instruction on how to run the Prolog file:
 
 1.Load the a2handin file using command [a2handin].\
 2.There are 4 default puzzles pre-implemented, namely a, b, c, and d.\
