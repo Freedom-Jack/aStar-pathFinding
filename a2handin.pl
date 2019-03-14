@@ -1,17 +1,3 @@
-/** ---------------------------------------------------------
-
-EECS 3401 Fall 2018 Assignment 2
-
-Family name: Xu
-
-Given name: Qijin
-
-Student number: 214679757
-
-
-
----------------------------------------------------------- */
-
 /* load the three search algorithms */
 :- ensure_loaded('astar.pl').
 :- ensure_loaded('astarCC.pl').
