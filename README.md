@@ -1,4 +1,4 @@
-# AStar-PathFinding
+# A* Path Finding Project with Prolog
 School Project: Solving 8 puzzle problem using A* path finding
 
 Instruction on how to run the Prolog file:
